@@ -1,0 +1,29 @@
+_repo: The-Cruise-of-the-Midge--Vol.-II-of-2-_44876
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44876-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Scott, Michael
+    birthdate: 1789
+    deathdate: 1835
+    gutenberg_agent_id: '2405'
+    url: http://www.gutenberg.org/2009/agents/2405
+description: ''
+gutenberg_issued: '2014-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seafaring life -- Fiction'
+- !lcsh 'Slave traders -- Fiction'
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Caribbean Sea -- Fiction'
+- !lcc 'PR'
+title: The Cruise of the Midge (Vol. 2 of 2)
+url: http://www.gutenberg.org/ebooks/44876
